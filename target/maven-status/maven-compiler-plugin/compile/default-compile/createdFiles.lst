@@ -1,0 +1,8 @@
+com\qfcast\mapper\MenuMapper.class
+com\qfcast\service\MenuService.class
+com\qfcast\commons\MenuHome.class
+com\qfcast\controller\MenuController.class
+com\qfcast\commons\HomeInfo.class
+com\qfcast\commons\LogoInfo.class
+com\qfcast\service\impl\MenuServiceImpl.class
+com\qfcast\pojo\Menu.class
